@@ -5,7 +5,7 @@
 ### Install Dependencies (frontend & backend)
 
 ```
-npm setup-production
+npm run setup-production
 ```
 
 ### Run

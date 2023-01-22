@@ -1,5 +1,7 @@
 import express from 'express';
 import path from 'path';
+import colors from 'colors';
+
 import { notFound, errorHandler } from './middleware/errorMiddleware.js';
 import connectDB from './config/db.js';
 import productRoutes from './routes/productRoutes.js';
