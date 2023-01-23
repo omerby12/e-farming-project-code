@@ -14,6 +14,8 @@ npm run setup-production
 npm run start
 ```
 
+- visit url http://localhost:5000/
+
 ## PayPal User
 
 ```
